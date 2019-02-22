@@ -1,0 +1,17 @@
+.co{
+  background-color: #ffcccc;
+}
+.board button{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 5px solid black;
+  background-color: gray;
+  margin: 2px;
+}
+.board{
+  margin: auto;
+}
+.status{
+  text-align: center;
+}
